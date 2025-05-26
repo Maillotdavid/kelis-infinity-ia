@@ -3,22 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Page de Base</title>
+  <title>Ma page de base</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
+      background-color: #f0f0f0;
+      color: #333;
       margin: 0;
       padding: 0;
     }
+
     header, footer {
-      background-color: #333;
-      color: white;
+      background-color: #222;
+      color: #fff;
       text-align: center;
       padding: 1rem;
     }
+
     main {
       padding: 2rem;
+      text-align: center;
     }
   </style>
 </head>
@@ -28,12 +32,11 @@
   </header>
 
   <main>
-    <p>Ceci est une page HTML de base. Ajoute ton contenu ici.</p>
+    <p>Ceci est un exemple de page HTML simple. Tu peux personnaliser le contenu selon tes besoins.</p>
   </main>
 
   <footer>
-    <p>&copy; 2025 Mon Site</p>
+    <p>&copy; 2025 - Mon Site Web</p>
   </footer>
 </body>
 </html>
-
